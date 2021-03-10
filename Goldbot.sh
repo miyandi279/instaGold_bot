@@ -2,15 +2,9 @@
 # code by miyandi279
 
 trap 'printf "\n";stop;exit 1' 2
-
-
-\\\\\\\\######## like-gram ########///////////
-
 ## tidak ada sistem yang aman
-
 default_username=""
 default_password=""
-
 ## komentar saya !
 
 arr[0]="jangan pernah mengira bahwa ilmu datang sendiri!"
@@ -18,7 +12,7 @@ arr[1]="tapi ilmu perlu dicari"
 arr[2]="jadi hargai saya yang membuat ini!"
 arr[3]="ok!"
 
-########################### v0.1 #################################
+########################### v9.9Gold #################################
 
 rand=$[$RANDOM % ${#arr[@]}]
 IFS=$'\n'
